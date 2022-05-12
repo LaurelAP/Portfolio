@@ -16,10 +16,10 @@ Learning and Course Design Training excerpt
 ### Technical
 User Reference
 - description 
-- 
+
 Course Review Tool Summary Report
 - description 
-- 
+
 Redesigned Template
 - description
 
@@ -35,6 +35,7 @@ Redesigned Template
 ### Philosophical
 - The Future of eLearning 
   - Presentation
+  
 - [Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays](http://www.etudesonline.com/sept2015painter.html) 
   - Journal Article
 
