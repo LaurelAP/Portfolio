@@ -26,5 +26,4 @@ Redesigned Template
 The Future of eLearning
 - Journal Article
 [Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays] (http://www.etudesonline.com/sept2015painter.html)
-term
-: definition
+
