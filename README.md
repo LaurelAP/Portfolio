@@ -41,7 +41,7 @@ I am a creator of educational and informational content.<br/>Please see samples 
 
 ---
 ### Philosophical
-- The Future of eLearning 
+- [The Future of eLearning](https://github.com/LaurelAP/Portfolio/blob/main/Painter_TheFutureofeLearning.pdf) 
   - A research white paper presenation on the future of online learning and higher education.
   
 - [Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays](http://www.etudesonline.com/sept2015painter.html) 
