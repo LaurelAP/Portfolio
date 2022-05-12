@@ -16,8 +16,10 @@ Learning and Course Design Training excerpt
 ### Technical
 User Reference
 - description 
+- 
 Course Review Tool Summary Report
 - description 
+- 
 Redesigned Template
 - description
 
@@ -25,6 +27,7 @@ Redesigned Template
 ### Narrative
 - [Women finding a foothold in Dayton's auto training world](https://www.daytondailynews.com/local/women-finding-a-foothold-in-daytons-auto-training-world/IHOCSAFZ3ZECFOHPMYFN3MM5E4/)
   - Feature
+
 - [Concha's Kitchen - 7 minutes](https://vimeo.com/27172500)
   - Observational Documentary Video
 
