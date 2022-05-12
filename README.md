@@ -1,6 +1,6 @@
 # Laurel's Portfolio
-## I am a creator of educational and informational content.
-## Please see samples of my work below.
+I am a creator of educational and informational content.
+Please see samples of my work below.
 
 ### Training
 Ambassador Training excerpt
