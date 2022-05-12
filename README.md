@@ -4,20 +4,20 @@ I am a creator of educational and informational content.  <br/>Please see sample
 ---
 ### Training
 Ambassador Training excerpt
--
+- description
 Accessibility Training excerpt
--
+- description 
 Learning and Course Design Training excerpt
--
+- description
 
 ---
 ### Technical
 User Reference
--
+- description 
 Course Review Tool Summary Report
--
+- description 
 Redesigned Template
--
+- description
 
 ---
 ### Narrative
