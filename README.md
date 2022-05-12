@@ -22,7 +22,7 @@ I am a creator of educational and informational content.<br/>Please see samples 
 <br/>Platform: Brightspace LMS
 
 [User Guide excerpt - How to Create and Insert a Playlist](https://github.com/LaurelAP/Portfolio/blob/main/Painter_Playlist-HowToCreateAdd.pdf)
-- An original reference product to instruct users how to create a playlist in one platform and insert it into another. The guided instructions accompany a screen capture video.
+- An original reference document to instruct users how to create a playlist in one platform and insert it into another. The guided instructions accompany a screen capture video.
 
 [Course Review Tool Summary Report](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch2022.pdf)
 - Summary report with phase completions on self-proposed collaborative project for the development of an automated review tool for instructional designers and faculty to use. Screen capture of the most current prototype is available upon request. 
