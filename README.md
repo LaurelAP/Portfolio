@@ -1,20 +1,20 @@
 # Laurel's Portfolio
 ## I am a creator of educational and informational content, please see samples of my work below.
 
-###Training
+### Training
 Ambassador Training excerpt
 Accessibility Training excerpt
 Learning and Course Design Training excerpt
-###Technical
+### Technical
 User Reference
 Course Review Tool Summary Report
 Redesigned Template
-###Narrative
+### Narrative
 - Feature
 [Women finding a foothold in Dayton's auto training world] (https://www.daytondailynews.com/local/women-finding-a-foothold-in-daytons-auto-training-world/IHOCSAFZ3ZECFOHPMYFN3MM5E4/)
 - Observational Documentary Video
 [Concha's Kitchen - 7 minutes] (https://vimeo.com/27172500)
-###Philosophical
+### Philosophical
 - Presentation
 The Future of eLearning
 - Journal Article
