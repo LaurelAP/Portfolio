@@ -1,5 +1,5 @@
 # Laurel's Portfolio
-**I am a creator of educational and informational content.<br/>Please see samples of my selected work below.**
+**I develop content to educate and inform.<br/>Please see samples of my selected work below.**
 
 ---
 ### Training & Instructional
