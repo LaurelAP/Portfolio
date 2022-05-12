@@ -4,11 +4,11 @@ I am a creator of educational and informational content.  <br/>Please see sample
 ---
 ### Training
 Ambassador Training excerpt
-- description<br/>
-Accessibility Training excerpt
-- description<br/>
-Learning and Course Design Training excerpt
-- description<br/>
+- description
+<br/>Accessibility Training excerpt
+- description
+<br/>Learning and Course Design Training excerpt
+- description
 
 ---
 ### Technical
