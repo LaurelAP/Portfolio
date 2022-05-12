@@ -1,32 +1,32 @@
 # Laurel's Portfolio
-I am a creator of educational and informational content.<br/>Please see samples of my work below.
+I am a creator of educational and informational content.<br/>Please see samples of my selected work below.
 
 ---
-### Training
-Ambassador Training excerpt
+### Training & Instructional
+[Ambassador Training excerpt](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AmbassadorTraining-excerpt.pdf)
 - An original, dialogue-based narrative to train college ambassadors for field events. The training assessment also served as learning material, navigating the user through a typical conversation they would encounter at events.
 <br/>Platform: Brightspace LMS
 
-Accessibility Training excerpts
+[Accessibility Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
 - A revised and redesigned product to train all employees across the organization in digital accessibility compliance, principles, and practices.
 <br/>Platform: Articulate 360 - Rise
 
-Learning and Course Design Training excerpts
+[Learning and Course Design Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
 - An original product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
 <br/>Platform: Articulate 360 - Rise
 
 ---
 ### Technical & UX
-User Reference
+[User Reference](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementUserRef.pdf)
 - An original reference product to address clients' "pain points" regarding Manage Files area of the LMS. The analogy of a local computer's file system was used to facilitate understanding.
 <br/>Platform: Brightspace LMS
 
-[Course Review Tool Summary Report](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch%202022.pdf)
+[Course Review Tool Summary Report](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch2022.pdf)
 - Summary report with phase completions on self-proposed collaborative project for the development of an automated review tool for instructional designers and faculty to use. Screen capture of the most current prototype is available upon request. 
 <br/>Platforms: Pycharm, Sourcetree
 <br/>Languages: Python and XPath with Selenium WebDriver
 
-Redesigned Template
+[Redesigned Template](https://github.com/LaurelAP/Portfolio/blob/main/Painter_RedesignedTemplate-excerpt.pdf)
 - A revised and redesigned product template for all courses across the organization. The template was streamlined using content marketing techniques to increase user engagement and to reduce word count by 20%.
 <br/>Platform: Brightspace LMS
 
@@ -42,7 +42,7 @@ Redesigned Template
 ---
 ### Philosophical
 - The Future of eLearning 
-  - A research white paper presenation on the future of online learning and higher ed.
+  - A research white paper presenation on the future of online learning and higher education.
   
 - [Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays](http://www.etudesonline.com/sept2015painter.html) 
   - A journal article written as a Platonic dialogue with hopes to educate and open discussion about the relationship between dramatic plays and their said performances. TJ, Madison, and the author examine these questions through selected lenses of aesthetics philosophy and early American political philosophy.
