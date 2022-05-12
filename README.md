@@ -21,8 +21,8 @@ User Reference
 - An original reference product to address clients' "pain points" regarding Manage Files area of the LMS. The analogy of a local computer's file system was used to facilitate understanding.
 <br/>Platform: Brightspace LMS
 
-Course Review Tool Summary Report
-- Self-proposed collaborative project for the development of an automated review tool for instructional designers and faculty to use. Screen capture of the most current prototype is available upon request. 
+[Course Review Tool Summary Report](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch%202022.pdf)
+- Summary report with phase completions on self-proposed collaborative project for the development of an automated review tool for instructional designers and faculty to use. Screen capture of the most current prototype is available upon request. 
 <br/>Platforms: Pycharm, Sourcetree
 <br/>Languages: Python and XPath with Selenium WebDriver
 
