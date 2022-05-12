@@ -38,8 +38,8 @@ I am a creator of educational and informational content.<br/>Please see samples 
 [Women finding a foothold in Dayton's auto training world](https://www.daytondailynews.com/local/women-finding-a-foothold-in-daytons-auto-training-world/IHOCSAFZ3ZECFOHPMYFN3MM5E4/)
   - A news feature about Hanna Weaver, the youngest member and first female staff instructor of Sinclair College's Automotive Technology department.
 
-[Concha's Kitchen - 7 minutes](https://vimeo.com/27172500)
-  - An observational documentary video about Concha, an 80-year old native of Mexico who maintains the tradition of Mexican cooking as a way of affection for her family. Her cooking process is explored through the art of music, sound, and cinema; the score and video editing were created to enhance the sounds and rhythms of her process.
+[Concha's Kitchen - 7 minute video](https://vimeo.com/27172500)
+  - An observational documentary about Concha, an 80-year old native of Mexico who maintains the tradition of Mexican cooking as a way of affection for her family. Her cooking process is explored through the art of music, sound, and cinema; the score and video editing were created to enhance the sounds and rhythms of her process.
 <br/>For more video work, visit my vimeo page, https://vimeo.com/laurelann  
 
 ---
