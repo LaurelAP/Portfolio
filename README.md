@@ -24,3 +24,4 @@ The Future of eLearning
 [Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays] (http://www.etudesonline.com/sept2015painter.html)
 term
 : definition
+---
