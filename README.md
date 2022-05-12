@@ -5,10 +5,12 @@
 Ambassador Training excerpt
 Accessibility Training excerpt
 Learning and Course Design Training excerpt
+---
 ### Technical
 User Reference
 Course Review Tool Summary Report
 Redesigned Template
+---
 ### Narrative
 - Feature
 [Women finding a foothold in Dayton's auto training world] (https://www.daytondailynews.com/local/women-finding-a-foothold-in-daytons-auto-training-world/IHOCSAFZ3ZECFOHPMYFN3MM5E4/)
