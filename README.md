@@ -7,12 +7,12 @@
 - An original, dialogue-based narrative to train college ambassadors for field events. The training assessment also served as learning material, navigating the user through a typical conversation they would encounter at events.
 <br/>Platform: Brightspace LMS
 
-[Accessibility Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
-- A revised and redesigned product to train all employees across the organization in digital accessibility compliance, principles, and practices.
-<br/>Platform: Articulate 360 - Rise
-
 [Learning and Course Design Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
 - An original product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
+<br/>Platform: Articulate 360 - Rise
+
+[Accessibility Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
+- A revised and redesigned product to train all employees across the organization in digital accessibility compliance, principles, and practices.
 <br/>Platform: Articulate 360 - Rise
 
 ---
@@ -21,7 +21,7 @@
 - An original reference product to address clients' "pain points" regarding Manage Files area of the LMS. The analogy of a local computer's file system was used to facilitate understanding.
 <br/>Platform: Brightspace LMS
 
-[User Guide excerpt - How to Create and Insert a Playlist](https://github.com/LaurelAP/Portfolio/blob/main/Painter_Playlist-HowToCreateAdd.pdf)
+[User Guide excerpt - How to Create and Insert a Playlist](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementReference.pdf)
 - An original reference document to instruct users how to create a playlist in one platform and insert it into another. The guided instructions accompany a screen capture video.
 
 [Course Review Tool Summary Report](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch2022.pdf)
