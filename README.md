@@ -17,11 +17,11 @@
 
 ---
 ### Technical & UX
-[User Reference - File Management](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementUserRef.pdf)
+[User Reference - File Management](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementReference.pdf)
 - An original reference product to address clients' "pain points" regarding Manage Files area of the LMS. The analogy of a local computer's file system was used to facilitate understanding.
 <br/>Platform: Brightspace LMS
 
-[User Guide excerpt - How to Create and Insert a Playlist](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementReference.pdf)
+[User Guide excerpt - How to Create and Insert a Playlist](https://github.com/LaurelAP/Portfolio/blob/main/Painter_Playlist-HowToCreateAdd.pdf)
 - An original reference document to instruct users how to create a playlist in one platform and insert it into another. The guided instructions accompany a screen capture video.
 
 [Course Review Tool Summary Report](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch2022.pdf)
