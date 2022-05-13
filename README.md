@@ -8,11 +8,11 @@
 <br/>Platform: Brightspace LMS
 
 [Learning and Course Design Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
-- An original product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
+- An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
 <br/>Platform: Articulate 360 - Rise
 
 [Accessibility Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
-- A revised and redesigned product to train all employees across the organization in digital accessibility compliance, principles, and practices.
+- A revised and redesigned interactive product to train all employees across the organization in digital accessibility compliance, principles, and practices.
 <br/>Platform: Articulate 360 - Rise
 
 ---
@@ -30,7 +30,7 @@
 <br/>Languages: Python and XPath with Selenium WebDriver
 
 [Redesigned Template](https://github.com/LaurelAP/Portfolio/blob/main/Painter_RedesignedTemplate-excerpt.pdf)
-- A revised and redesigned product template for all courses across the organization. The template was streamlined using content marketing techniques to increase user engagement and to reduce word count by 20%.
+- A revised and redesigned template for all courses across the organization. The template was streamlined using content marketing techniques to increase user engagement and to reduce word count by 20%.
 <br/>Platform: Brightspace LMS
 
 ---
