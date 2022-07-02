@@ -32,7 +32,7 @@ An original reference document to instruct users how to create a playlist in one
 #### [Summary & Progress Report - application development](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch2022.pdf)
 A report with summary and phase completions on self-proposed collaborative project for the development of an automated review tool for instructional designers and faculty to use. Screen capture of the most current prototype is available upon request. Current development platforms used for the tool are Pycharm and Sourcetree; languages used are Python and XPath with Selenium WebDriver.
 
-#### [Redesigned Template - eCourse module](https://github.com/LaurelAP/Portfolio/blob/main/Painter_RedesignedTemplate-excerpt.pdf)
+#### [Redesigned Template - online course module](https://github.com/LaurelAP/Portfolio/blob/main/Painter_RedesignedTemplate-excerpt.pdf)
 A revised and redesigned template for all courses across the organization. The template was streamlined using content marketing techniques to increase user engagement and to reduce word count by 20%.
 <br/>Platform: Brightspace LMS
 
