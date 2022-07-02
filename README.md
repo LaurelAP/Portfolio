@@ -9,32 +9,30 @@
 An original, dialogue-based narrative to train college ambassadors for field events. The training assessment also served as learning material, navigating the user through a typical conversation they would encounter at events.
 <br/>Platform: Brightspace LMS
 
-[Training Excerpts - learning and course design](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
-<br/>An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
+#### [Training Excerpts - learning and course design](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
+An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
 <br/>Platform: Articulate 360 - Rise
 
-[Instructional Assignment & Resources - history of writing instruction](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AssignmentInstructions+Resource.pdf)
-<br/>An introductory composition course assignment that gives students a historical context of writing instruction so they can better understand their challenges with writing courses. Also introduced is how to creatively brainstorm and research based on reading.
+#### [Instructional Assignment & Resource - history of writing instruction](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AssignmentInstructions+Resource.pdf)
+An introductory composition course assignment that gives students a historical context of writing instruction so they can better understand their challenges with writing courses. Also introduced is how to creatively brainstorm and research based on reading.
 
-[Accessibility Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
-- A revised and redesigned interactive product to train all employees across the organization in digital accessibility compliance, principles, and practices.
+#### [Training Excerpts - accessibility compliance](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
+A revised and redesigned interactive product to train all employees across the organization in digital accessibility compliance, principles, and practices.
 <br/>Platform: Articulate 360 - Rise
 
 ---
 ### Technical & UX
-[User Reference - File Management](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementReference.pdf)
-- An original reference product to address clients' "pain points" regarding Manage Files area of the LMS. The analogy of a local computer's file system was used to facilitate understanding.
+#### [User Reference - file management](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementReference.pdf)
+An original reference product to address clients' "pain points" regarding Manage Files area of the LMS. The analogy of a local computer's file system was used to facilitate understanding.
 <br/>Platform: Brightspace LMS
 
-[User Guide excerpt - How to Create and Insert a Playlist](https://github.com/LaurelAP/Portfolio/blob/main/Painter_Playlist-HowToCreateAdd.pdf)
-- An original reference document to instruct users how to create a playlist in one platform and insert it into another. The guided instructions accompany a screen capture video.
+#### [User Guide excerpt - How to Create and Insert a Playlist](https://github.com/LaurelAP/Portfolio/blob/main/Painter_Playlist-HowToCreateAdd.pdf)
+An original reference document to instruct users how to create a playlist in one platform and insert it into another. The guided instructions accompany a screen capture video.
 
-[Course Review Tool Summary Report](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch2022.pdf)
-- Summary report with phase completions on self-proposed collaborative project for the development of an automated review tool for instructional designers and faculty to use. Screen capture of the most current prototype is available upon request. 
-<br/>Platforms: Pycharm, Sourcetree
-<br/>Languages: Python and XPath with Selenium WebDriver
+#### [Summary & Progress Report - application development](https://github.com/LaurelAP/Portfolio/blob/main/CourseReviewTool-SummaryMarch2022.pdf)
+A report with summary and phase completions on self-proposed collaborative project for the development of an automated review tool for instructional designers and faculty to use. Screen capture of the most current prototype is available upon request. Current development platforms used for the tool are Pycharm and Sourcetree; languages used are Python and XPath with Selenium WebDriver.
 
-[Redesigned Template](https://github.com/LaurelAP/Portfolio/blob/main/Painter_RedesignedTemplate-excerpt.pdf)
+#### [Redesigned Template - eCourse module](https://github.com/LaurelAP/Portfolio/blob/main/Painter_RedesignedTemplate-excerpt.pdf)
 - A revised and redesigned template for all courses across the organization. The template was streamlined using content marketing techniques to increase user engagement and to reduce word count by 20%.
 <br/>Platform: Brightspace LMS
 
