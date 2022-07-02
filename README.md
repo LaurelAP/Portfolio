@@ -1,17 +1,18 @@
 # Laurel's Portfolio
-**I develop content to educate and inform.<br/>Please see samples of my selected work below.**
+**I develop content to educate and inform.<br/>Please see samples of my selected work below. All samples have been published in some capacity unless otherwise noted.**
 
 ---
 ### Training & Instructional
-#### [Training Excerpt - College Ambassador Program](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AmbassadorTraining-excerpt.pdf)
+#### [Training Excerpt - college ambassador program](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AmbassadorTraining-excerpt.pdf)
 An original, dialogue-based narrative to train college ambassadors for field events. The training assessment also served as learning material, navigating the user through a typical conversation they would encounter at events.
 <br/>Platform: Brightspace LMS
 
-[Training Excerpts - Learning and Course Design](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
+[Training Excerpts - learning and course design](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
 An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
 <br/>Platform: Articulate 360 - Rise
 
-[Instructional Assignment - 
+[Instructional Assignment & Resources - history of writing instruction](
+An introductory composition course assignment that gives students a historical context of writing instruction so they can better understand their challenges with writing courses. Also introduced is how to creatively brainstorm and research based on reading.
 
 [Accessibility Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
 - A revised and redesigned interactive product to train all employees across the organization in digital accessibility compliance, principles, and practices.
