@@ -47,6 +47,7 @@ An observational documentary about Concha, an 80-year old native of Mexico who m
 
 #### [Video - Accidental Shakespeare](https://vimeo.com/165500389) (5 minutes)
 An observational documentary structured with audio interviews of two inexperienced actors joining their local community theatre's first Shakespeare production.
+<br/>For more video work, visit my vimeo page, https://vimeo.com/laurelann  
 
 ---
 ### Philosophical
