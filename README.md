@@ -1,5 +1,6 @@
 # Laurel's Portfolio
-**I develop content to educate and inform.<br/>Please see samples of my selected work below. All samples have been published in some capacity unless otherwise noted.**
+**I develop content to educate and inform.<br/>Please see samples of my selected work below.** 
+**All samples have been published in some capacity unless otherwise noted.**
 
 ---
 ### Training & Instructional
@@ -8,7 +9,7 @@ An original, dialogue-based narrative to train college ambassadors for field eve
 <br/>Platform: Brightspace LMS
 
 [Training Excerpts - learning and course design](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
-An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
+<br/>An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
 <br/>Platform: Articulate 360 - Rise
 
 [Instructional Assignment & Resources - history of writing instruction](
