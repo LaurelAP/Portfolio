@@ -22,7 +22,7 @@ A revised and redesigned interactive product to train all employees across the o
 
 ---
 ### Technical & UX
-#### [User Reference - How to Manager your Course Files](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementReference.pdf)
+#### [User Reference - How to Manage your Course Files](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FileManagementReference.pdf)
 An original reference product to address clients' "pain points" regarding Manage Files area of the LMS. The analogy of a local computer's file system was used to facilitate understanding.
 <br/>Platform: Brightspace LMS
 
