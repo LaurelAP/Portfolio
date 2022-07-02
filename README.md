@@ -3,8 +3,7 @@
 
 ---
 ### Training & Instructional
-#### [Ambassador Training excerpt](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AmbassadorTraining-excerpt.pdf)
-##### Training Excerpt
+#### [Training Excerpt - Ambassador Program](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AmbassadorTraining-excerpt.pdf)
 An original, dialogue-based narrative to train college ambassadors for field events. The training assessment also served as learning material, navigating the user through a typical conversation they would encounter at events.
 <br/>Platform: Brightspace LMS
 
