@@ -47,9 +47,9 @@ An observational documentary about Concha, an 80-year old native of Mexico who m
 
 ---
 ### Philosophical
-#### [The Future of eLearning](https://github.com/LaurelAP/Portfolio/blob/main/Painter_TheFutureofeLearning.pdf) 
+#### [Whitepaper - The Future of eLearning](https://github.com/LaurelAP/Portfolio/blob/main/Painter_TheFutureofeLearning.pdf) 
 A research white paper presentation on the future of online learning and higher education.
   
-#### [Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays](http://www.etudesonline.com/uploads/2/9/7/7/29773929/etudessept2015painter.pdf) 
+#### [Article - Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays](http://www.etudesonline.com/uploads/2/9/7/7/29773929/etudessept2015painter.pdf) 
 A journal article written as a Platonic dialogue with hopes to educate and open discussion about the relationship between dramatic plays and their said performances. Jefferson, Madison, and the author examine these questions through selected lenses of aesthetics philosophy and early American political philosophy.
 
