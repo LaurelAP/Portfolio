@@ -3,13 +3,15 @@
 
 ---
 ### Training & Instructional
-#### [Training Excerpt - Ambassador Program](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AmbassadorTraining-excerpt.pdf)
+#### [Training Excerpt - College Ambassador Program](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AmbassadorTraining-excerpt.pdf)
 An original, dialogue-based narrative to train college ambassadors for field events. The training assessment also served as learning material, navigating the user through a typical conversation they would encounter at events.
 <br/>Platform: Brightspace LMS
 
-[Learning and Course Design Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
-- An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
+[Training Excerpts - Learning and Course Design](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
+An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
 <br/>Platform: Articulate 360 - Rise
+
+[Instructional Assignment - 
 
 [Accessibility Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
 - A revised and redesigned interactive product to train all employees across the organization in digital accessibility compliance, principles, and practices.
