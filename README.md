@@ -1,6 +1,7 @@
 # Laurel's Portfolio
-**I develop content to educate and inform.<br/>Please see samples of my selected work below.** 
-**All samples have been published in some capacity unless otherwise noted.**
+**I develop content to educate and inform.
+<br/>Please see samples of my selected work below.
+<br/>All samples have been published in some capacity unless otherwise noted.**
 
 ---
 ### Training & Instructional
@@ -12,8 +13,8 @@ An original, dialogue-based narrative to train college ambassadors for field eve
 <br/>An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
 <br/>Platform: Articulate 360 - Rise
 
-[Instructional Assignment & Resources - history of writing instruction](
-An introductory composition course assignment that gives students a historical context of writing instruction so they can better understand their challenges with writing courses. Also introduced is how to creatively brainstorm and research based on reading.
+[Instructional Assignment & Resources - history of writing instruction](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AssignmentInstructions+Resource.pdf)
+<br/>An introductory composition course assignment that gives students a historical context of writing instruction so they can better understand their challenges with writing courses. Also introduced is how to creatively brainstorm and research based on reading.
 
 [Accessibility Training excerpts](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
 - A revised and redesigned interactive product to train all employees across the organization in digital accessibility compliance, principles, and practices.
