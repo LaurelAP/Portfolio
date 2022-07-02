@@ -1,7 +1,7 @@
 # Laurel's Portfolio
 **I develop content to educate and inform.
 <br/>Please see samples of my selected work below.
-<br/>All samples have been published in some capacity unless otherwise noted.**
+<br/>All samples have been published in some capacity or were used for professional purposes unless otherwise noted.**
 
 ---
 ### Training & Instructional
