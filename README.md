@@ -40,7 +40,7 @@ A consideration for faculty and administrators in higher education concerning ch
 <br/>Platform: Canva
 
 #### [Presentation | Writing for the Web Reader](https://github.com/LaurelAP/Portfolio/blob/main/Painter_WritingForWebReader.pdf)
-A faculty seminar focusing on the significance of changing reading behaviors and how to use scientific findings and evidence-based multidisciplinary techniques to create engaging written text for the online environment.
+A faculty seminar focusing on the significance of changing reading behaviors and how to use scientific findings and evidence-based multidisciplinary techniques to create engaging written text for the online environment. Presentation notes are available after the PDF is downloaded.
 <br/>Platform: PowerPoint
 
 #### Teaching with Immersive Technology - coming soon
