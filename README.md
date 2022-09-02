@@ -44,11 +44,11 @@ A faculty seminar to instruct faculty on the significance of changing reading be
 <br/>Platform: PowerPoint
 
 #### Teaching with Immersive Technology - coming soon
-A resource guide surveying the research, analysis, produciton, and implementation of immersive learning.
+A resource guide surveying the research, analysis, production, and implementation of immersive learning.
 
 ---
 ### Educational
-#### [Article - Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays](http://www.etudesonline.com/uploads/2/9/7/7/29773929/etudessept2015painter.pdf) 
+#### [Academic Article - Jefferson and Madison Enter Upstage Center: A Dialogue About Living Frameworks for Dead Plays](http://www.etudesonline.com/uploads/2/9/7/7/29773929/etudessept2015painter.pdf) 
 A journal article written as a Platonic dialogue with hopes to educate and open discussion about the relationship between dramatic plays and their said performances. Jefferson, Madison, and the author examine these questions through selected lenses of aesthetics philosophy and early American political philosophy.
 
 #### [Instructional Assignment & Resource - history of writing instruction](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AssignmentInstructions+Resource.pdf)
