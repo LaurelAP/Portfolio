@@ -10,7 +10,7 @@ An original, dialogue-based narrative to train college ambassadors for field eve
 <br/>Platform: Brightspace LMS
 
 #### [Excerpts | learning and course design](https://github.com/LaurelAP/Portfolio/blob/main/Painter_CourseDesignTraining-excerpt.pdf)
-An original, interactive product to train faculty on advanced course and learning design strategies based on research from coginitive neuroscience.
+An original, interactive product to train faculty on advanced course and learning design strategies based on research from cognitive neuroscience.
 <br/>Platform: Articulate 360 - Rise
 
 #### [Excerpts | accessibility compliance](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AccessibilityTraining-excerpts.pdf)
@@ -43,7 +43,7 @@ A consideration for faculty and administrators in higher education concerning ch
 A faculty seminar focusing on the significance of changing reading behaviors and how to use scientific findings and evidence-based multidisciplinary techniques to create engaging written text for the online environment. Presentation notes are available after the PDF is downloaded.
 <br/>Platform: PowerPoint
 
-#### Teaching with Immersive Technology - coming soon
+#### [Teaching with Immersive Technology]()
 A resource guide surveying the research, analysis, production, and implementation of immersive learning.
 
 ---
