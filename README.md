@@ -43,8 +43,8 @@ A consideration for faculty and administrators in higher education concerning ch
 A faculty seminar focusing on the significance of changing reading behaviors and how to use scientific findings and evidence-based multidisciplinary techniques to create engaging written text for the online environment. Presentation notes are available after the PDF is downloaded.
 <br/>Platform: PowerPoint
 
-#### [Teaching with Immersive Technology]()
-A resource guide surveying the research, analysis, production, and implementation of immersive learning.
+#### [Teaching with Immersive Technology](https://github.com/LaurelAP/Portfolio/blob/main/Painter_%20ImmTechFacultyGuide.pdf)
+A resource guide surveying the research, analysis, production, and implementation of immersive learning. Download the PDF to utilize the bookmarks.
 
 ---
 ### Educational
