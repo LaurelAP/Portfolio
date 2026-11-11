@@ -4,6 +4,15 @@
 <br/>All samples have been published in some capacity or were used for professional purposes.**
 
 ---
+### Legal Writing Samples (coming soon)
+#### Administrative Appellate Brief (Part A Medicare Reconsideration)
+#### Mock Legal Memo (course assignment)
+#### Mock Fact Particularization (course assignment)
+#### Mock Interrogatories (course assignment)
+#### Mock Request For Admissions (course assignment)
+#### Mock Request For Production of Documents (course assignment)
+
+---
 ### Training
 #### [Excerpt | college ambassador program](https://github.com/LaurelAP/Portfolio/blob/main/Painter_AmbassadorTraining-excerpt.pdf)
 An original, dialogue-based narrative to train college ambassadors for field events. The training assessment also served as learning material, navigating the user through a typical conversation they would encounter at events.
