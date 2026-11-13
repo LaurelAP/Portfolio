@@ -4,8 +4,8 @@
 
 ---
 ### Legal Writing
-#### [Brief | Part A Medicare Reconsideration Appeal Hearing] ()
-#### [Course Assignment | Mock Fact Particularization] ()
+#### [Brief | Part A Medicare Reconsideration Appeal Hearing](https://github.com/LaurelAP/Portfolio/blob/main/Painter_MedicareAppellateBrief.pdf)
+#### [Course Assignment | Mock Fact Particularization](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FactParticularization.pdf)
 
 ---
 ### Training
