@@ -3,13 +3,9 @@
 <br/>All samples have been published in some capacity or were used for professional purposes unless otherwise noted.**
 
 ---
-### Legal Writing Samples (coming soon)
-#### Administrative Appellate Brief (Part A Medicare Reconsideration)
-#### Mock Legal Memo (course assignment)
-#### Mock Fact Particularization (course assignment)
-#### Mock Interrogatories (course assignment)
-#### Mock Request For Admissions (course assignment)
-#### Mock Request For Production of Documents (course assignment)
+### Legal Writing
+#### [Brief | Part A Medicare Reconsideration Appeal Hearing] ()
+#### [Course Assignment | Mock Fact Particularization] ()
 
 ---
 ### Training
