@@ -5,7 +5,7 @@
 ---
 ### Legal Writing
 #### [Brief | Part A Medicare Reconsideration Appeal Hearing](https://github.com/LaurelAP/Portfolio/blob/main/Painter_MedicareAppellateBrief.pdf)
-An appellate brief which successfully reversed the Beneficiary and Family Centered Care-Quality Improvement Organization (BFCC-QIO), Kepro (now Acentra Health) reconsideration determination and secured a full refund of out-of pocket costs for the client.
+An appellate brief which successfully reversed the Beneficiary and Family Centered Care-Quality Improvement Organization (BFCC-QIO), Kepro (now Acentra Health) reconsideration determination and secured a full refund of out-of-pocket costs for the client.
 
 #### [Course Assignment | Mock Fact Particularization](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FactParticularization.pdf)
 Completed paralegal course assignment for mock case.
