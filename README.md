@@ -8,7 +8,16 @@
 An appellate brief which successfully reversed the Beneficiary and Family Centered Care-Quality Improvement Organization (BFCC-QIO), Kepro (now Acentra Health) reconsideration determination and secured a full refund of out-of-pocket costs for the client.
 
 #### [Course Assignment | Mock Fact Particularization](https://github.com/LaurelAP/Portfolio/blob/main/Painter_FactParticularization.pdf)
-Completed paralegal course assignment for mock case.
+Completed paralegal course assignment for mock case regarding theft of goods.
+
+#### [Course Assignment | Mock Interrogatories](https://github.com/LaurelAP/Portfolio/blob/main/Painter_Interrogatories.pdf)
+Completed paralegal course assignment for mock case regarding personal injury. This assignment is based on a required boilerplate template. No initial disclosure information was provided.
+
+#### [Course Assignment | Mock Admissions](https://github.com/LaurelAP/Portfolio/blob/main/Painter_Admissions.pdf)
+Completed paralegal course assignment for mock case regarding personal injury. This assignment is based on a required boilerplate template. No initial disclosure information was provided.
+
+#### [Course Assignment | Mock Production of Documents](https://github.com/LaurelAP/Portfolio/blob/main/Painter_DocumentProduction.pdf)
+Completed paralegal course assignment for mock case regarding personal injury. This assignment is based on a required boilerplate template. No initial disclosure information was provided.
 
 ---
 ### Training
